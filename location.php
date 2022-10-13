@@ -8,7 +8,7 @@
 	<header>
 		<div class="main">
 			<div class="logo">
-				<img src="image/logo.png">
+				<img src="image/newlogo.png">
 			</div>
 			<ul>
 				<li class="active"><a href="index.php">HOME</a></li>
